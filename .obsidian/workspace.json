@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c737d27f7fe5a5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Docker Landscape.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Docker Landscape.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Docker Landscape.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,9 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebcef0491285c5d5",
+  "active": "c737d27f7fe5a5d0",
   "lastOpenFiles": [
-    "Introduction.md",
-    "The Docker Landscape.md"
+    "The Docker Landscape.md",
+    "Introduction.md"
   ]
 }
