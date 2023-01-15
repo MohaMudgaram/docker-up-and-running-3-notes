@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Docker Landscape.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,9 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c737d27f7fe5a5d0",
+  "active": "ceb10075f27334a5",
   "lastOpenFiles": [
     "The Docker Landscape.md",
-    "Introduction.md"
+    "Introduction.md",
+    "README.md"
   ]
 }
